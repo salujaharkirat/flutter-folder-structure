@@ -1,8 +1,3 @@
-# flutter_folder_structure
+This is an example of scalable folder structure which can be used in flutter applications. 
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+https://medium.com/@salujaharkirat/scalable-app-structure-in-flutter-dad61a4bc389
